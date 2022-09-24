@@ -1,10 +1,10 @@
 <div id="top"><div>
 <div align="center">
-
-  <img src="public/me.png" alt="logo" width="200" height="auto" />
-  <h1>Sohan R. Emon</h1>
+<h1>Magento 2.0</h1>
+  <img src="https://demo.templatetrend.com/magento/Euforia/images/header.jpg" alt="logo"  height="auto" />
   
-  <p>Full Stack Web Developer
+  
+  <p>using react and tailwind
     
   </p>
   
@@ -30,6 +30,5 @@ Repos: [https://github.com/sohanemon](https://github.com/sohanemon?tab=repositor
 
 Use this section to mention useful resources and libraries that you have used in your projects.
 
-- [Shields.io](https://shields.io/)
 - [ProgrammingHero1](https://programming-hero.com)
-- [Fireship](https://fireship.io)
+- [ThemeForest](https://themeforest.com)
