@@ -28,7 +28,5 @@ Repos: [https://github.com/sohanemon](https://github.com/sohanemon?tab=repositor
 
 ## Acknowledgements
 
-Use this section to mention useful resources and libraries that you have used in your projects.
-
 - [ProgrammingHero1](https://programming-hero.com)
 - [ThemeForest](https://themeforest.com)
