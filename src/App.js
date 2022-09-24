@@ -1,3 +1,4 @@
+import "swiper/css/bundle";
 import BestSelling from "./components/best-selling";
 import Demo from "./components/demo";
 import Footer from "./components/footer";
